@@ -10,13 +10,13 @@ url: "https://github.com/tnals5718" # the base hostname & protocol for your site
 
 # SEO PLUGIN
 social:
-  name: Your Name
+  name: Soomin
   links:
     - https://twitter.com/BenBalter
     - https://www.facebook.com/ben.balter
     - https://www.linkedin.com/in/BenBalter
     - https://plus.google.com/+BenBalter
-    - https://github.com/benbalter
+    - https://github.com/tnals5718
     - https://keybase.io/benbalter
 
 # THEME SETTINGS
